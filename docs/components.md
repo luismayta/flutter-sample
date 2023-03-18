@@ -1,7 +1,7 @@
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Components BaseTemplate -->
-<!-- Label: BaseTemplate -->
+<!-- Parent: FlutterSample -->
+<!-- Title: Components FlutterSample -->
+<!-- Label: FlutterSample -->
 <!-- Label: Project -->
 <!-- Label: Components -->
 <!-- Include: disclaimer.md -->
