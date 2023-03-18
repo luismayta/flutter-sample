@@ -5,7 +5,7 @@
 #
 
 # Name of this project
-name: base-template
+name: flutter-sample
 
 email:
   support: support@hadenlabs.com
@@ -17,22 +17,22 @@ email:
 license: "LGPL-3.0"
 
 # Canonical GitHub repo
-github_repo: hadenlabs/base-template
+github_repo: luismayta/flutter-sample
 
 # Badges to display
 badges:
   - name: Latest Release
-    image: https://img.shields.io/github/release/hadenlabs/base-template
-    url: https://github.com/hadenlabs/base-template/releases
+    image: https://img.shields.io/github/release/luismayta/flutter-sample
+    url: https://github.com/luismayta/flutter-sample/releases
   - name: Lint
-    image: https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code
-    url: https://github.com/hadenlabs/base-template/actions?workflow=lint-code
+    image: https://img.shields.io/github/workflow/status/luismayta/flutter-sample/lint-code
+    url: https://github.com/luismayta/flutter-sample/actions?workflow=lint-code
   - name: CI
-    image: https://img.shields.io/github/workflow/status/hadenlabs/base-template/ci
-    url: https://github.com/hadenlabs/base-template/actions?workflow=ci
+    image: https://img.shields.io/github/workflow/status/luismayta/flutter-sample/ci
+    url: https://github.com/luismayta/flutter-sample/actions?workflow=ci
   - name: Test
-    image: https://img.shields.io/github/workflow/status/hadenlabs/base-template/test
-    url: https://github.com/hadenlabs/base-template/actions?workflow=test
+    image: https://img.shields.io/github/workflow/status/luismayta/flutter-sample/test
+    url: https://github.com/luismayta/flutter-sample/actions?workflow=test
   - name: pre-commit
     image: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
     url: https://github.com/pre-commit/pre-commit
@@ -54,7 +54,7 @@ requirements: |-
 # Short description of this project
 description: |-
 
-  base-template for project
+  flutter-sample for project
 
 usages:
   - docs/usage.md

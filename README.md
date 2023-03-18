@@ -12,11 +12,11 @@
 
   -->
 
-[![Latest Release](https://img.shields.io/github/release/hadenlabs/base-template)](https://github.com/hadenlabs/base-template/releases) [![Lint](https://img.shields.io/github/workflow/status/hadenlabs/base-template/lint-code)](https://github.com/hadenlabs/base-template/actions?workflow=lint-code) [![CI](https://img.shields.io/github/workflow/status/hadenlabs/base-template/ci)](https://github.com/hadenlabs/base-template/actions?workflow=ci) [![Test](https://img.shields.io/github/workflow/status/hadenlabs/base-template/test)](https://github.com/hadenlabs/base-template/actions?workflow=test) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/changelog-Keep%20a%20Changelog%20v1.0.0-orange)](https://keepachangelog.com)
+[![Latest Release](https://img.shields.io/github/release/luismayta/flutter-sample)](https://github.com/luismayta/flutter-sample/releases) [![Lint](https://img.shields.io/github/workflow/status/luismayta/flutter-sample/lint-code)](https://github.com/luismayta/flutter-sample/actions?workflow=lint-code) [![CI](https://img.shields.io/github/workflow/status/luismayta/flutter-sample/ci)](https://github.com/luismayta/flutter-sample/actions?workflow=ci) [![Test](https://img.shields.io/github/workflow/status/luismayta/flutter-sample/test)](https://github.com/luismayta/flutter-sample/actions?workflow=test) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow)](https://conventionalcommits.org) [![KeepAChangelog](https://img.shields.io/badge/changelog-Keep%20a%20Changelog%20v1.0.0-orange)](https://keepachangelog.com)
 
-# base-template
+# flutter-sample
 
-base-template for project
+flutter-sample for project
 
 ## Requirements
 
@@ -30,17 +30,15 @@ This is a list of plugins that need to be installed previously to enjoy all the 
 
 # How to use this project
 
-## Replace name project to New Project
-
 ```bash
-agr 'base-template' 'new-project'
+task setup
 ```
 
 ## Examples
 
 <!-- Space: Projects -->
-<!-- Parent: BaseTemplate -->
-<!-- Title: Examples BaseTemplate -->
+<!-- Parent: FlutterSample -->
+<!-- Title: Examples FlutterSample -->
 <!-- Label: Examples -->
 <!-- Include: ./../disclaimer.md -->
 <!-- Include: ac:toc -->
@@ -51,7 +49,7 @@ agr 'base-template' 'new-project'
 
 **Got a question?**
 
-File a GitHub [issue](https://github.com/hadenlabs/base-template/issues).
+File a GitHub [issue](https://github.com/luismayta/flutter-sample/issues).
 
 ## Contributing
 
@@ -84,6 +82,6 @@ All other trademarks referenced herein are the property of their respective owne
 
 The code and styles are licensed under the LGPL-3.0 license [See project license.](LICENSE).
 
-## Don't forget to 🌟 Star 🌟 the repo if you like base-template
+## Don't forget to 🌟 Star 🌟 the repo if you like flutter-sample
 
-[Your feedback is appreciated](https://github.com/hadenlabs/base-template/issues)
+[Your feedback is appreciated](https://github.com/luismayta/flutter-sample/issues)

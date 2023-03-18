@@ -32,7 +32,7 @@ dotenv:
   - .env
 
 vars:
-  PROJECT_NAME: base-template
+  PROJECT_NAME: flutter-sample
   GROUP_NAME: hadenlabs
   ORGANIZATION: hadenlabs
   DOCKER_PLATFORM: linux/amd64
