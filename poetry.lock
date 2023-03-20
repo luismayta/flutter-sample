@@ -153,14 +153,14 @@ frozenlist = ">=1.1.0"
 
 [[package]]
 name = "argcomplete"
-version = "3.0.1"
+version = "3.0.2"
 description = "Bash tab completion for argparse"
 category = "dev"
 optional = false
 python-versions = ">=3.6"
 files = [
-    {file = "argcomplete-3.0.1-py3-none-any.whl", hash = "sha256:b54db355e44986256d52981479bb1c32e8f101e4e2f72e378e51463765de3332"},
-    {file = "argcomplete-3.0.1.tar.gz", hash = "sha256:296f50b633dda1c7a7ddd57764f190e45711f0a388743ebce65dd3600a89b543"},
+    {file = "argcomplete-3.0.2-py3-none-any.whl", hash = "sha256:ba35518a5640ebbda5fb77d94e1db535233a7eac18ffb905216753749eaff8e1"},
+    {file = "argcomplete-3.0.2.tar.gz", hash = "sha256:fb929c2f609f195a2b11dc914924149b45c2b55b9f48283362e18b8d35f855c1"},
 ]
 
 [package.extras]
